@@ -41,7 +41,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/athulkannoth/Java-Application-CI-CD</url>
+            <url>https://maven.pkg.github.com/athulknr/Java-Application-CI-CD</url>
         </repository>
     </distributionManagement>
 
